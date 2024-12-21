@@ -9,56 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Presentations
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+- 2024/12 (with Victor Juannan Pan) A labeling-based approach to the derivation of nominal structures in Chinese [Invited talk]. Workshop: International Research Network for the Human Language Faculty, Osaka, Japanese, Dec 7-8.
+- 2023/12 (with Victor Junnan Pan) Nominal phrase with relative clause in Mandarin Chinese: Labeling and Antilocality [Oral]. Workshop: Factors in Natural Language Design - the Nominal Domain and Beyond, Göttingen, Germany, Dec 11-12.
+- 2023/08 (with Victor Junnan Pan) Form-Copy and Verbal Inscriptions: Evidence from Verb-Copying Construction in Chinese [Poster]. The 25th Seoul International Conference on Generative Grammar, Dongguk University, Seoul, Korea, Aug 14-16.  
+- 2022/08 (with Victor Junnan Pan) How to Label via Feature-Sharing: Case of Nominal Structures in Chinese [Oral]. The 24th Seoul International Conference on Generative Grammar, Dongguk University, Seoul, Korea, Aug 12-14. 
 
-Work experience
+Activities
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- 2024/03, organizing committee member of The 14th Generative Linguistics in the Old World in Asia (GLOW in Asia XIV)
+- 2022/08, organizing committee member of  The 13th Generative Linguistics in the Old World in Asia (GLOW in Asia XIII)
+- 2022/05, helper for organizing The 28th Annual Conference of The International Association of Chinese Linguistics (IACL 28th) 
+- 2020/07 in Qiandongnan Miao and Dong Autonomous Prefecture, Guizhou Province, China; 2019/07 in Jinxiu Yao Autonomous County, Laibin City, Guangxi Province, China; 2019/05 in Liannan Yao Autonomous County, Qingyuan City, Guangdong Province, China, fieldwork on the language development of Mandarin-speaking children. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
