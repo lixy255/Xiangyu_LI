@@ -21,7 +21,7 @@ repository               : "academicpages/lixy255.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "p2.jpg"
+  avatar           : "p2.png"
   name             : "Xiangyu LI"
   pronouns         : # example: "she/her"  
   bio              : "[ɕiɑŋ.jy li]"
