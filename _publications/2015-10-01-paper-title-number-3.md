@@ -1,14 +1,9 @@
----
-title: "Paper Title Number 3"
-collection: publications
-category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://lixy255.github.io/files/slides3.pdf'
-paperurl: 'http://lixy255.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
----
+I am in the CUHK syntax group, supervised by Professor Victor Junnan Pan. My recent output is under the frame of Minimalist Program, with additional focus on Chinese syntax.
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Publications:
+- Li, Xiangyu & Victor Junnan Pan. To appear. Labeling Nominal Phrases in Mandarin Chinese. 
+
+- Li, Xiangyu & Victor Junnan Pan. 2023. How to Label via Feature-Sharing: Case of Nominal Structures in Chinese. In Tae Sik Kim & Jungu Kang (eds), Proceedings of 24th Seoul International Conference on Generative Grammar.  (*First author)
+Yang, Jingwen, Zelin Chen, Guoxin Qiu, Xiangyu Li, … & Shuo Lu. 2022. Exploring the relationship between children's facial emotion processing characteristics and speech communication ability: using deep learning on eye tracking and speech performance measures. Computer Speech & Language, 76.
+
+- Lu, Shuo, Xufeng Duan & Xiangyu Li. 2021. Prominency and Locality Principle in Chinese Possessive Topicalization Sentences and its Psychological Basis: Evidence from Eye-movements [漢語領屬話題句中顯著性與局部性規則及其心理現實基礎——來自眼動技術的證據]. Contemporary Linguistics [當代語言學], 01.
