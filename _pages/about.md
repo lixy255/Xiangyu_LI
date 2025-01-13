@@ -8,7 +8,7 @@ redirect_from:
 
 I am currently a PhD student in Linguistics at The Chinese University of Hong Kong. 
 
-My research interests encompass minimalist syntax, Chinese syntax, and syntax-pragmatics interface in sign language.
+My research interests encompass minimalist syntax, Chinese syntax, and syntax-pragmatics interface.
 
 I am pursing an understanding of the innate biological component of the language faculty (or say, domain-specific properties of language competence) from different approaches.
 
