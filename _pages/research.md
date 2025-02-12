@@ -22,4 +22,3 @@ In addition to theoretical linguistics, my experimental research experience incl
 
 - Lu, Shuo, Xufeng Duan & Xiangyu Li. 2021. Prominency and Locality Principle in Chinese Possessive Topicalization Sentences and its Psychological Basis: Evidence from Eye-movements [漢語領屬話題句中顯著性與局部性規則及其心理現實基礎——來自眼動技術的證據]. Contemporary Linguistics [當代語言學], 01.
 <br>
-</div>
