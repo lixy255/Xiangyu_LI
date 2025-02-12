@@ -110,10 +110,10 @@ Unfortunately, one logistical issue with a template theme like Academic Pages th
 <div align="center">
     
 ![pages-build-deployment](https://github.com/academicpages/lixy255.github.io/Xiangyu_LI/actions/workflows/pages/pages-build-deployment/badge.svg)
-[![GitHub contributors](https://img.shields.io/github/contributors/academicpages/lixy255.github.io.svg)](https://github.com/academicpages/lixy255.github.io/Xiangyu_LI/graphs/contributors)
-[![GitHub release](https://img.shields.io/github/v/release/academicpages/lixy255.github.io)](https://github.com/academicpages/lixy255.github.io/Xiangyu_LI/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/academicpages/lixy255.github.io?color=blue)](https://github.com/academicpages/lixy255.github.io/Xiangyu_LI/blob/master/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/academicpages/lixy255.github.io/Xiangyu_LI.svg)](https://github.com/academicpages/lixy255.github.io/Xiangyu_LI/graphs/contributors)
+[![GitHub release](https://img.shields.io/github/v/release/academicpages/lixy255.github.io/Xiangyu_LI)](https://github.com/academicpages/lixy255.github.io/Xiangyu_LI/releases/latest)
+[![GitHub license](https://img.shields.io/github/license/academicpages/lixy255.github.io/Xiangyu_LI?color=blue)](https://github.com/academicpages/lixy255.github.io/Xiangyu_LI/blob/master/LICENSE)
 
-[![GitHub stars](https://img.shields.io/github/stars/academicpages/lixy255.github.io)](https://github.com/academicpages/lixy255.github.io/Xiangyu_LI)
-[![GitHub forks](https://img.shields.io/github/forks/academicpages/lixy255.github.io)](https://github.com/academicpages/lixy255.github.io/Xiangyu_LI/fork)
+[![GitHub stars](https://img.shields.io/github/stars/academicpages/lixy255.github.io/Xiangyu_LI)](https://github.com/academicpages/lixy255.github.io/Xiangyu_LI)
+[![GitHub forks](https://img.shields.io/github/forks/academicpages/lixy255.github.io/Xiangyu_LI)](https://github.com/academicpages/lixy255.github.io/Xiangyu_LI/fork)
 </div>
