@@ -24,15 +24,24 @@ Activities
 - 2020/07 in Qiandongnan Miao and Dong Autonomous Prefecture, Guizhou Province, China; 2019/07 in Jinxiu Yao Autonomous County, Laibin City, Guangxi Province, China; 2019/05 in Liannan Yao Autonomous County, Qingyuan City, Guangdong Province, China, fieldwork on the language development of Mandarin-speaking children. 
 <br>
 
+<div style="text-align: center;">
+  <img src="/Xiangyu_LI/images/activity1.jpg" width="1200" height="auto" alt="jpg1">
+</div>
+<div style="text-align: center;">
+    <div style="font-size:14px;color:#C0C0C0;text-decoration:underline;">(Aug-2022, in Hong Kong)
+</div>
+  
+
 <div style="display: flex; justify-content: space-around;">
   <div style="text-align: center;">
-    <img src="/Xiangyu_LI/images/activity1.jpg" alt="jpg1" style="width: 320px; height: auto;">
-    <div style="font-size:14px;color:#C0C0C0;text-decoration:underline;">(Aug-2022, in Hong Kong)</div>
+    <img src="/Xiangyu_LI/images/activity2.jpg" alt="jpg2" style="width: 320px; height: auto;"> 
+  <div style="text-align: center;">
+    <img src="/Xiangyu_LI/images/fNIRs.jpg" alt="jpg3" style="width: 320px; height: auto;">
   </div>
   <div style="text-align: center;">
-    <img src="/Xiangyu_LI/images/activity2.jpg" alt="jpg2" style="width: 320px; height: auto;">
-    <div style="font-size:14px;color:#C0C0C0;text-decoration:underline;">(July-2020 in Qiandongnan Miao and Dong Autonomous Prefecture, 
+  <div style="font-size:14px;color:#C0C0C0;text-decoration:underline;">(July-2020 in Qiandongnan Miao and Dong Autonomous Prefecture, 
       <br>
-      Guizhou Province, China)</div>
-  </div>
+      Guizhou Province, China)</div>  
 </div>
+  </div>
+  
