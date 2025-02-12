@@ -24,11 +24,11 @@ Activities
 - 2020/07 in Qiandongnan Miao and Dong Autonomous Prefecture, Guizhou Province, China; 2019/07 in Jinxiu Yao Autonomous County, Laibin City, Guangxi Province, China; 2019/05 in Liannan Yao Autonomous County, Qingyuan City, Guangdong Province, China, fieldwork on the language development of Mandarin-speaking children. 
 
 
-![图片1](/images/activity1.jpg "jpg1")
+![图片1](/Xiangyu_LI/images/activity1.jpg "jpg1")
 <center style="font-size:14px;color:#C0C0C0;text-decoration:underline"> (Aug-2022, in Hong Kong)
 </center> 
 
 
-![图片2](/images/activity2.jpg "jpg2")
+![图片2](/Xiangyu_LI/images/activity2.jpg "jpg2")
 <center style="font-size:14px;color:#C0C0C0;text-decoration:underline">   (July-2020/07 in Qiandongnan Miao and Dong Autonomous Prefecture, Guizhou Province, China)
 </center> 
