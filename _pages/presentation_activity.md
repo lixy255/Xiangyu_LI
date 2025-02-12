@@ -25,12 +25,12 @@ Activities
 <br>
 
 <div style="text-align: center;">
-  <img src="/Xiangyu_LI/images/activity1.jpg" width="1200" height="auto" alt="jpg1">
+  <img src="/Xiangyu_LI/images/activity1.jpg" width="900" height="auto" alt="jpg1">
 </div>
 <div style="text-align: center;">
     <div style="font-size:14px;color:#C0C0C0;text-decoration:underline;">(Aug-2022, in Hong Kong)
 </div>
-  
+<br><br>
 
 <div style="display: flex; justify-content: space-around;">
   <div style="text-align: center;">
