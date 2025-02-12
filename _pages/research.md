@@ -11,6 +11,8 @@ redirect_from:
 
 I am in the CUHK syntax group, supervised by Professor Victor Junnan Pan. My recent output is under the frame of Minimalist Program, with additional focus on Chinese syntax.
 
+In addition to theoretical linguistics, my experimental research experience includes designing and executing eye-tracking studies. I have also worked with EEG and fNIRS data collection, though my analysis experience is specifically focused on eye-tracking data.
+
 # Publications:
 - Li, Xiangyu & Victor Junnan Pan. To appear. Labeling Nominal Phrases in Mandarin Chinese. 
 
@@ -20,5 +22,4 @@ I am in the CUHK syntax group, supervised by Professor Victor Junnan Pan. My rec
 
 - Lu, Shuo, Xufeng Duan & Xiangyu Li. 2021. Prominency and Locality Principle in Chinese Possessive Topicalization Sentences and its Psychological Basis: Evidence from Eye-movements [漢語領屬話題句中顯著性與局部性規則及其心理現實基礎——來自眼動技術的證據]. Contemporary Linguistics [當代語言學], 01.
 <br>
-
-<img src="/Xiangyu_LI/images/fNIRs.jpg" width="320" height="auto" alt="fNIRs_Xiangyu">
+</div>
