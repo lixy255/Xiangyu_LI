@@ -14,7 +14,9 @@ I am pursing an understanding of the innate biological component of the language
 
 **Language**: Mandarin Chinese (native); Hakka (proficient); Cantonese (proficient); Hong Kong Sign Language (fluent)
 
+<video width="320" height="180" controls>
+  <source src="/Xiangyu_LI/images/sign_name.mp4" type="video/mp4">
+</video>
 
-![图片1](/Xiangyu_LI/images/sign_name.mp4 "mp41")
 <center style="font-size:14px;color:#C0C0C0;text-decoration:underline"> (sign-name: "L"+chin)
 </center> 
