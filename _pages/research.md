@@ -11,7 +11,7 @@ redirect_from:
 
 I am in the CUHK syntax group, supervised by Professor Victor Junnan Pan. My recent output is under the frame of Minimalist Program, with additional focus on Chinese syntax.
 
-In addition to theoretical linguistics, my experimental research experience includes designing and executing eye-tracking studies. I have also worked with EEG and fNIRS data collection, though my analysis experience is specifically focused on eye-tracking data.
+In addition to theoretical linguistics, my previous experimental research experience includes designing and executing eye-tracking studies. I have also worked with EEG and fNIRS data collection, though my analysis experience is specifically focused on eye-tracking data.
 
 # Publications:
 - Li, Xiangyu & Victor Junnan Pan. To appear. Labeling Nominal Phrases in Mandarin Chinese. 
