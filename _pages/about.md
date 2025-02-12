@@ -14,4 +14,4 @@ I am pursing an understanding of the innate biological component of the language
 
 **Language**: Mandarin Chinese (native); Hakka (proficient); Cantonese (proficient); Hong Kong Sign Language (fluent)
 
-![图片1](Xiangyu_LI/images/About1.jpg "jpg1")
+![图片1](/images/About1.jpg "jpg1")
