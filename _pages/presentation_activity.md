@@ -34,14 +34,12 @@ Activities
 
 <div style="display: flex; justify-content: space-around;">
   <div style="text-align: center;">
-    <img src="/Xiangyu_LI/images/activity2.jpg" alt="jpg2" style="width: 320px; height: auto;"> 
+    <img src="/Xiangyu_LI/images/activity2.jpg" alt="jpg2" style="width: 320px; height: auto;"> </div>
   <div style="text-align: center;">
-    <img src="/Xiangyu_LI/images/fNIRs.jpg" alt="jpg3" style="width: 320px; height: auto;">
+    <img src="/Xiangyu_LI/images/fNIRs.jpg" alt="jpg3" style="width: 320px; height: auto;"></div>
   </div>
+  <br>
   <div style="text-align: center;">
-  <div style="font-size:14px;color:#C0C0C0;text-decoration:underline;">(July-2020 in Qiandongnan Miao and Dong Autonomous Prefecture, 
-      <br>
-      Guizhou Province, China)</div>  
+  <div style="font-size:14px;color:#C0C0C0;text-decoration:underline;">(July-2020 in Qiandongnan Miao and Dong Autonomous Prefecture, Guizhou Province, China)</div>  
 </div>
-  </div>
   
