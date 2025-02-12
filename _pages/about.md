@@ -17,5 +17,4 @@ I am pursing an understanding of the innate biological component of the language
 
 <img src="/Xiangyu_LI/images/sign_name.gif" width="320" height="240" alt="Sign Name">
 
-<center style="font-size:14px;color:#C0C0C0;text-decoration:underline"> (sign-name: "L"+chin)
-</center> 
+<div style="font-size:14px;color:#C0C0C0;text-decoration:underline; text-align: left;"> (sign-name: "L"+chin) </div>
