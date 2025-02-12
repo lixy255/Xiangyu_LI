@@ -19,4 +19,6 @@ I am in the CUHK syntax group, supervised by Professor Victor Junnan Pan. My rec
 - Yang, Jingwen, Zelin Chen, Guoxin Qiu, Xiangyu Li, … & Shuo Lu. 2022. Exploring the relationship between children's facial emotion processing characteristics and speech communication ability: using deep learning on eye tracking and speech performance measures. Computer Speech & Language, 76.
 
 - Lu, Shuo, Xufeng Duan & Xiangyu Li. 2021. Prominency and Locality Principle in Chinese Possessive Topicalization Sentences and its Psychological Basis: Evidence from Eye-movements [漢語領屬話題句中顯著性與局部性規則及其心理現實基礎——來自眼動技術的證據]. Contemporary Linguistics [當代語言學], 01.
+<br>
 
+<img src="/Xiangyu_LI/images/fNIRs.jpg" width="320" height="auto" alt="fNIRs_Xiangyu">
