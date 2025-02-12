@@ -22,7 +22,7 @@ Activities
 - 2022/08, organizing committee member of  The 13th Generative Linguistics in the Old World in Asia (GLOW in Asia XIII)
 - 2022/05, helper for organizing The 28th Annual Conference of The International Association of Chinese Linguistics (IACL 28th) 
 - 2020/07 in Qiandongnan Miao and Dong Autonomous Prefecture, Guizhou Province, China; 2019/07 in Jinxiu Yao Autonomous County, Laibin City, Guangxi Province, China; 2019/05 in Liannan Yao Autonomous County, Qingyuan City, Guangdong Province, China, fieldwork on the language development of Mandarin-speaking children. 
-
+<br>
 
 <div style="display: flex; justify-content: space-around;">
   <div style="text-align: center;">
@@ -31,6 +31,8 @@ Activities
   </div>
   <div style="text-align: center;">
     <img src="/Xiangyu_LI/images/activity2.jpg" alt="jpg2" style="width: 320px; height: auto;">
-    <div style="font-size:14px;color:#C0C0C0;text-decoration:underline;">(July-2020/07 in Qiandongnan Miao and Dong Autonomous Prefecture, Guizhou Province, China)</div>
+    <div style="font-size:14px;color:#C0C0C0;text-decoration:underline;">(July-2020 in Qiandongnan Miao and Dong Autonomous Prefecture, 
+      <br>
+      Guizhou Province, China)</div>
   </div>
 </div>
