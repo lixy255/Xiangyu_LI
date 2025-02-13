@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am in the CUHK syntax group, supervised by Professor Victor Junnan Pan. My recent output is under the frame of Minimalist Program, with additional focus on Chinese syntax.
+I am in the CUHK syntax group, supervised by [Professor Victor Junnan Pan](https://ling.cuhk.edu.hk/people/faculty-linguistics/pan-victor-junnan-personal-website/). My recent output is under the frame of Minimalist Program, with additional focus on Chinese syntax.
 
 In addition to theoretical linguistics, my previous experimental research experience includes designing and executing eye-tracking studies. I have also worked with EEG and fNIRS data collection, though my analysis experience specifically focused on eye-tracking data.
 
