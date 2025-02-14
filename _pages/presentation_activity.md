@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "P"
+title: ""
 permalink: /presentation_activity/
 author_profile: true
 redirect_from:
