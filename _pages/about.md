@@ -21,5 +21,5 @@ I am pursing an understanding of the innate biological component of the language
 
 <br>
 <br>
----------------------------
+---------------------------<br>
 本人是香港中文大學語言學專業的博士生，主要研究興趣方向包括最簡方案理論、漢語句法和句法-語用接口。長期研究目標是從多個維度來探尋人類與生俱來的語言官能的運行機製。
