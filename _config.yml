@@ -22,14 +22,13 @@ repository               : "academicpages/lixy255.github.io/Xiangyu_LI"
 author:
   # Biographic information
   avatar           : "p2.png"
-  name             : "Xiangyu LI"
+  name             : "Xiangyu LI \n lixy255@link.cuhk.edu.hk"
   pronouns         : # example: "she/her"  
   bio              : "[ɕiɑŋ.jy li]"
   location         : "Hong Kong"
   employer         : "The Chinese University of Hong Kong"
   uri              : # URL
   email            : lixy255@link.cuhk.edu.hk 
-   lixy255@link.cuhk.edu.hk : ""
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
