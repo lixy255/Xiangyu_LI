@@ -9,5 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](/files/CVLI.pdf)
-
+[CV](/Xiangyu_LI/files/CVLI.pdf)
