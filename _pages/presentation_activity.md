@@ -11,10 +11,12 @@ redirect_from:
 
 Presentations
 ======
-- 2024/12 (with Victor Juannan Pan) A labeling-based approach to the derivation of nominal structures in Chinese [Invited talk]. Workshop: International Research Network for the Human Language Faculty, Osaka, Japanese, Dec 7-8.
-- 2023/12 (with Victor Junnan Pan) Nominal phrase with relative clause in Mandarin Chinese: Labeling and Antilocality [Oral]. Workshop: Factors in Natural Language Design - the Nominal Domain and Beyond, Göttingen, Germany, Dec 11-12.
-- 2023/08 (with Victor Junnan Pan) Form-Copy and Verbal Inscriptions: Evidence from Verb-Copying Construction in Chinese [Poster]. The 25th Seoul International Conference on Generative Grammar, Dongguk University, Seoul, Korea, Aug 14-16.  
-- 2022/08 (with Victor Junnan Pan) How to Label via Feature-Sharing: Case of Nominal Structures in Chinese [Oral]. The 24th Seoul International Conference on Generative Grammar, Dongguk University, Seoul, Korea, Aug 12-14. 
+-2025/03 "Revisit and derive Verb-Copying Constructions in Chinese uniformly by Form-Copy" [Poster]. The Workshop on Theoretical East Asian Linguistics 14th, the University of Southern California, Los Angeles, US, March 18-20.
+- 2024/12 (with Victor Juannan Pan) "A labeling-based approach to the derivation of nominal structures in Chinese" [Invited talk]. Workshop: International Research Network for the Human Language Faculty, Osaka, Japanese, Dec 7-8.
+- 2023/12 (with Victor Junnan Pan) "Nominal phrase with relative clause in Mandarin Chinese: Labeling and Antilocality" [Oral]. Workshop: Factors in Natural Language Design - the Nominal Domain and Beyond, Göttingen, Germany, Dec 11-12.
+- 2023/08 (with Victor Junnan Pan) "Form-Copy and Verbal Inscriptions: Evidence from Verb-Copying Construction in Chinese" [Poster]. The 25th Seoul International Conference on Generative Grammar, Dongguk University, Seoul, Korea, Aug 14-16.  
+- 2022/08 (with Victor Junnan Pan) "How to Label via Feature-Sharing: Case of Nominal Structures in Chinese" [Oral]. The 24th Seoul International Conference on Generative Grammar, Dongguk University, Seoul, Korea, Aug 12-14.
+  
 
 Activities
 ======
