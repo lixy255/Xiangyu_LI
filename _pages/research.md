@@ -14,7 +14,7 @@ I am in the CUHK syntax group, supervised by [Professor Victor Junnan Pan](https
 In addition to theoretical linguistics, my previous experimental research experience includes designing and executing eye-tracking studies. I have also worked with EEG and fNIRS data collection, though my analysis experience specifically focused on eye-tracking data.
 
 # Publications:
-- Li, Xiangyu & Victor Junnan Pan. To appear. Labeling Nominal Phrases in Mandarin Chinese. 
+- Li, Xiangyu & Victor Junnan Pan. 2025. [Labeling Nominal Phrases in Mandarin Chinese](https://www.jbe-platform.com/content/journals/10.1075/lv.24033.li). Linguistic Variation (online publication).(*First author)
 
 - Li, Xiangyu & Victor Junnan Pan. 2023. How to Label via Feature-Sharing: Case of Nominal Structures in Chinese. In Tae Sik Kim & Jungu Kang (eds), Proceedings of 24th Seoul International Conference on Generative Grammar.  (*First author)
 
