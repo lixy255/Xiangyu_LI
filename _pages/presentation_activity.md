@@ -11,6 +11,7 @@ redirect_from:
 
 Presentations
 ======
+- 2025/08 (with Victor Juannan Pan) "Copy-relation beyong PIC in Parasitic Gap & Obligatory Control constructions" (revised) [Oral]. The 2th SMOG International Conference on Syntax and Semantics, Gyeongkuk National University, Andong, Korea, August 11-13. 
 - 2025/03 "Revisit and derive Verb-Copying Constructions in Chinese uniformly by Form-Copy" [Poster]. The Workshop on Theoretical East Asian Linguistics 14th, the University of Southern California, Los Angeles, US, March 18-20.
 - 2024/12 (with Victor Juannan Pan) "A labeling-based approach to the derivation of nominal structures in Chinese" [Invited talk]. Workshop: International Research Network for the Human Language Faculty, Osaka, Japanese, Dec 7-8.
 - 2023/12 (with Victor Junnan Pan) "Nominal phrase with relative clause in Mandarin Chinese: Labeling and Antilocality" [Oral]. Workshop: Factors in Natural Language Design - the Nominal Domain and Beyond, Göttingen, Germany, Dec 11-12.
