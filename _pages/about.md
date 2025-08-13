@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to my page! I am currently a PhD student in Linguistics at The Chinese University of Hong Kong. 
+Hi, welcome to my page! I am currently a 3rd-year PhD candidate in Linguistics at The Chinese University of Hong Kong. 
 
 My research interests encompass minimalist syntax, Chinese syntax, and syntax-pragmatics interface.
 
