@@ -12,7 +12,7 @@ redirect_from:
 Presentations
 ======
 - 2025/12 (with Victor Junnan Pan) "Phi-Agree licensing movement and N-ellipsis: Agreeing modifiers and nominalizers" [Oral]. The annual conference of the Australian Linguistic Society 2025, Griffith University, Gold Coast QLD, Australia, Dec 2-5. 
-- 2025/11 (with Victor Junnan Pan) "Distribution of nominal modifiers in classifier languages:A labeling approach" [Oral]. The 11th International Conference on Formal Linguistics 【形式语言学研讨会】 2025, Guanggdong University of Foreign Studies, Guangzhou, China, November 8-9.
+- 2025/11 (with Victor Junnan Pan) "Distribution of nominal modifiers in classifier languages:A labeling approach" [Oral]. The 11th International Conference on Formal Linguistics 【形式语言学国际研讨会】 2025, Guanggdong University of Foreign Studies, Guangzhou, China, November 8-9.
 - 2025/08 (with Victor Juannan Pan) "Copy-relation beyong PIC in Parasitic Gap & Obligatory Control constructions" (title revised) [Oral]. The 2th SMOG International Conference on Syntax and Semantics, Gyeongkuk National University, Andong, Korea, August 11-13. 
 - 2025/03 "Revisit and derive Verb-Copying Constructions in Chinese uniformly by Form-Copy" [Poster]. The Workshop on Theoretical East Asian Linguistics 14th, the University of Southern California, Los Angeles, US, March 18-20.
 - 2024/12 (with Victor Juannan Pan) "A labeling-based approach to the derivation of nominal structures in Chinese" [Invited talk]. Workshop: International Research Network for the Human Language Faculty, Osaka, Japanese, Dec 7-8.
