@@ -25,6 +25,8 @@ Presentations
 
 Activities
 ======
+- 2026/07, attend the 7th Crete Summer School of Linguistics, University of Crete, Greece
+- 2024/08, attend the DGfS Summer School 2024: Form-Meaning Mismatches in Spoken and Visual Communication, University of Göttingen, Germany
 - 2024/03, organizing committee member of The 14th Generative Linguistics in the Old World in Asia (GLOW in Asia XIV)
 - 2022/08, organizing committee member of  The 13th Generative Linguistics in the Old World in Asia (GLOW in Asia XIII)
 - 2022/05, helper for organizing The 28th Annual Conference of The International Association of Chinese Linguistics (IACL 28th) 
