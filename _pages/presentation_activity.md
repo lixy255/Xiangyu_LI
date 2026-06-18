@@ -10,7 +10,9 @@ redirect_from:
 {% include base_path %}
 
 Presentations
-======
+- 2026/09 (with Victor Junnan Pan) "Syntax of Obligatory Control: a refined analysis via Form-Copy". The 54th Poznań Linguistic Meeting (PLM2025), Adam Mickiewicz University, Poznań, Poland, Sep 20-23.
+- 2026/06 (with Victor Junnan Pan) "基于控制结构的新分析：“他革他的命，你复你的古”" '"He revo- his -lutionize, You re- your -vive": a new analysis based on Control' [Oral]. The 32nd Annual Conference of the International Association of Chinese Linguistics (IACL-32), Center for Linguistics and Applied Linguistics, Guangdong University of Foreign Studies, Guangzhou, June 12-14.
+- 2026/06 (with Victor Junan Pan) "V-qǐlái in Chinese: directional verb, aspect marker or bǔyǔ biāojì ‘complementizer’" [Poster]. The 15th International Workshop on Theoretical East Asian Linguistics (TEAL-15), The Chinese Universrity of Hong Kong, Hong Kong, June 5-6.
 - 2025/12 (with Victor Junnan Pan) "Phi-Agree licensing movement and N-ellipsis: Agreeing modifiers and nominalizers" [Oral]. The annual conference of the Australian Linguistic Society 2025, Griffith University, Gold Coast QLD, Australia, Dec 2-5. 
 - 2025/11 (with Victor Junnan Pan) "Distribution of nominal modifiers in classifier languages:A labeling approach" [Oral]. The 11th International Conference on Formal Linguistics 【形式语言学国际研讨会】 2025, Guanggdong University of Foreign Studies, Guangzhou, China, November 8-9.
 - 2025/08 (with Victor Juannan Pan) "Copy-relation beyong PIC in Parasitic Gap & Obligatory Control constructions" (title revised) [Oral]. The 2th SMOG International Conference on Syntax and Semantics, Gyeongkuk National University, Andong, Korea, August 11-13. 
